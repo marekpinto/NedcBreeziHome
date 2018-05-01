@@ -13,4 +13,4 @@ The arduino uses an H-Bridge to power the motor and reverse the polarity so that
 # Arduino Circuit
 
 This is the Arduino Circuit Diagram, as wired in our prototype.
-![img](C:\Users\Marek\Downloads\nedc_circuit)
+![img](nedc_circuit.PNG)
