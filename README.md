@@ -10,4 +10,7 @@ The BreeziHome is our product for the NEDC challenge, which won 3rd at prelimina
 
 The arduino uses an H-Bridge to power the motor and reverse the polarity so that it can turn in both directions. It also takes input from two temperature sensors and uses a bluetooth module to communicate with an app that the user can use to control the system. Thermohome.h and Thermohome.cpp define a library for the project that has a Window class with a constructor and two methods, open and close. The arduino code takes advantage of these libraries in conjunction with the app and temperature sensors to open and close the windows when required.
 
+# Arduino Circuit
 
+This is the Arduino Circuit Diagram, as wired in our prototype.
+![img](C:\Users\Marek\Downloads\nedc_circuit)
